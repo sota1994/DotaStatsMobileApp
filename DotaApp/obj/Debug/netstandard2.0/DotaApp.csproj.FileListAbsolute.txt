@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\bin\Debug\netstandard2.0\DotaApp.deps.json
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\bin\Debug\netstandard2.0\DotaApp.dll
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\obj\Debug\netstandard2.0\DotaApp.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\obj\Debug\netstandard2.0\DotaApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\obj\Debug\netstandard2.0\DotaApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\obj\Debug\netstandard2.0\DotaApp.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\bin\Debug\netstandard2.0\DotaApp.pdb
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\obj\Debug\netstandard2.0\DotaApp.dll
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\obj\Debug\netstandard2.0\DotaApp.pdb
+C:\Users\ADMIN\source\repos\DotaApp\DotaApp\obj\Debug\netstandard2.0\XamlC.stamp
